@@ -9,7 +9,7 @@ endif
 include $(DEVKITARM)/base_rules
 
 export LIBCTRU_MAJOR	:= 2
-export LIBCTRU_MINOR	:= 4
+export LIBCTRU_MINOR	:= 5
 export LIBCTRU_PATCH	:= 0
 
 
